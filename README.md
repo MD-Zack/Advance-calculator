@@ -20,6 +20,9 @@ This calculator offers:
 
 🛠️ Design & Implementation
 Built with an Object-Oriented Programming (OOP) approach via a Calc class that encapsulates all operations.
+<img width="319" height="399" alt="image" src="https://github.com/user-attachments/assets/aaf43bf9-6ec3-4165-a28f-da9471c7467b" />
+
+
 
 Each operation is a separate method — keeping the code clean and maintainable.
 
