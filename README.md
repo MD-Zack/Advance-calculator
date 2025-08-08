@@ -1,5 +1,5 @@
-🧮 Simple Calculator in Python 🎉
-Welcome to the Simple Calculator project — a user-friendly, command-line calculator built with Python! This project is perfect for beginners who want to practice object-oriented programming, error handling, and basic math operations in a fun and interactive way. 🚀
+🧮 Advance Calculator in Python 🎉
+Welcome to the Advance Calculator project — a user-friendly, command-line calculator built with Python! This project is perfect for beginners who want to practice object-oriented programming, error handling, and basic math operations in a fun and interactive way. 🚀
 
 ✨ Features & Functionalities
 This calculator offers:
@@ -43,10 +43,8 @@ Improve cross-platform compatibility for screen clearing 🌐.
 🎯 Usage Instructions
 Run the Python script from your terminal or command prompt:
 
-bash
-Copy
-Edit
 python calculator.py
+
 Follow the on-screen prompts to choose an operation and input numbers. Results are displayed immediately, and you can continue calculating until you choose to exit.
 
 💡 Conclusion
